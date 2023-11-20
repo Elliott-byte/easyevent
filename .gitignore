@@ -33,3 +33,5 @@ build/
 .vscode/
 
 **/application.yml
+/frontend/node_modules
+/frontend/.idea
